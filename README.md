@@ -6,16 +6,16 @@ Repositório voltado para estudos da linguagem Python e suas biblotecas, com enf
 ---
 Cursos
 
-🏫 [Data Science Academy] (https://www.datascienceacademy.com.br/course/fundamentos-de-linguagem-python-do-basico-a-aplicacoes-de-ia)
-📺 [Téo My Why] (https://www.youtube.com/@teomewhy)
+- 🏫 [Data Science Academy] (https://www.datascienceacademy.com.br/course/fundamentos-de-linguagem-python-do-basico-a-aplicacoes-de-ia)
+- 📺 [Téo My Why] (https://www.youtube.com/@teomewhy)
 
 ---
 Biblotecas 
 
-🌀 [NumPy] 
-🐼 [Pandas]
-📊 [Matplotlib]
+- 🌀 [NumPy] 
+- 🐼 [Pandas]
+- 📊 [Matplotlib]
 ---
 Projetos 
 
-📊 [Mini-Projeto 1 - Análise de Vendas para loja Ecommerce]
+- 📊 [Mini-Projeto 1 - Análise de Vendas para loja Ecommerce]
